@@ -2,6 +2,7 @@
 (1) This is a matlab implementation of the proposed SMDML. 
 
 (2) This code is constructed on the basis of SPDNet [1]. We are very grateful for the very efficient and reliable source code provided by the authors.
+    
     [1] Huang. Z and Van. G. L. A riemannian network for spd matrix learning. In AAAI, 2017, pp. 2036-2042.
 
 (3) Here, we use the FPHA dataset [2] as an example. 
