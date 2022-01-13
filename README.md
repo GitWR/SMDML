@@ -2,6 +2,8 @@
 
 (1) This is a matlab implementation of the proposed SMDML. 
 
+This work carries out a preliminary exploration of the combination of deep Riemannian neural network and Riemannian metric learning to find a possible way to simultaneously conquer the degradation of structural information during multi-stage feature transformation and reduce the impact of the large intra-class variations and inter-class ambiguity of representations on the model capacity. The experimental results on the four benchmarking datasets confirm its validity.
+
 (2) This code is constructed on the basis of SPDNet [1]. We are very grateful for the very efficient and reliable source code provided by the authors.
     
     [1] Huang. Z and Van. G. L. A riemannian network for spd matrix learning. In AAAI, 2017, pp. 2036-2042.
